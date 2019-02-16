@@ -1,0 +1,7 @@
+.ui.menu {
+    display: flex;
+    justify-content: flex-start;
+    flex: 1 0 0;
+    border:none;
+    padding:0px;
+}

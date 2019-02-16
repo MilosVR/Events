@@ -1,0 +1,116 @@
+.arrow img {
+    position: absolute;
+    display: block;
+    top: 750px;
+    width: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 600;
+    -webkit-animation: arrow 1s both infinite;
+    animation: arrow 1s both infinite;
+  }
+  
+  @-webkit-keyframes arrow {
+      0%, 20%, 50%, 80%, 100% {
+        -webkit-transform: translateY(0);
+      }
+      40% {
+        -webkit-transform: translateY(-30px);
+      }
+      60% {
+        -webkit-transform: translateY(-15px);
+      }
+  } 
+   
+  @keyframes arrow {
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(-30px);
+      }
+      60% {
+        transform: translateY(-15px);
+      }
+  } 
+  .arrow1 img {
+    position: absolute;
+    display: block;
+    top: 780px;
+    width: 80px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 600;
+    -webkit-animation: arrow 1s both infinite;
+    animation: arrow 1s both infinite;
+  }
+  
+  @-webkit-keyframes arrow1 {
+      0%, 20%, 50%, 80%, 100% {
+        -webkit-transform: translateY(0);
+      }
+      40% {
+        -webkit-transform: translateY(-30px);
+      }
+      60% {
+        -webkit-transform: translateY(-15px);
+      }
+  } 
+   
+  @keyframes arrow1 {
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(-30px);
+      }
+      60% {
+        transform: translateY(-15px);
+      }
+  } 
+  .arrow2 img {
+    position: absolute;
+    display: block;
+    top: 810px;
+    width: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 600;
+    -webkit-animation: arrow 1s both infinite;
+    animation: arrow 1s both infinite;
+  }
+  
+  @-webkit-keyframes arrow2 {
+      0%, 20%, 50%, 80%, 100% {
+        -webkit-transform: translateY(0);
+      }
+      40% {
+        -webkit-transform: translateY(-30px);
+      }
+      60% {
+        -webkit-transform: translateY(-15px);
+      }
+  } 
+   
+  @keyframes arrow2 {
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(-30px);
+      }
+      60% {
+        transform: translateY(-15px);
+      }
+  } 
+
+.hoverPriceSection {
+  opacity: 0.5;
+}
+
+.hoverPriceSection:hover {
+  opacity: 1;
+}

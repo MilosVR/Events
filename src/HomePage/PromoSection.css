@@ -1,0 +1,15 @@
+.PromoSectionBadge{
+    position: absolute;
+            background: rgba(0,0,255,1);
+            height:2rem;
+            top:16px;
+            width:70px;
+            text-align: center;
+            line-height: 2rem;
+            font-size: 1rem;
+            border-radius: 50%;
+            color:white;
+            border:1px solid rgb(120, 120, 248);
+            font-weight: bold;
+            z-index: 500;
+}

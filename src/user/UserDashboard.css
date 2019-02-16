@@ -1,0 +1,24 @@
+
+.text-shompingBag-outline{
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        font-size:30px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: rgb(255, 255, 255);
+      }
+
+      .text-shompingBag-outline2{
+        position: absolute;
+        left: 20px;
+        top: 55px;
+        right: 20px;
+        z-index: 2;
+        font-size:30px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: rgb(255, 255, 255);
+      }
